@@ -6,10 +6,9 @@
     theme: {
       extend: {
         colors: {
-          gold: 'var(--color-gold)',
-          dark: 'var(--color-dark)',
-          light: 'var(--color-light)',
-          accent: 'var(--color-accent)',
+          gold: '#D4B98C',
+          dark: '#1A1A1A',
+          light: '#F8F8F8',
         },
         fontFamily: {
           sans: ['Poppins', 'sans-serif'],
